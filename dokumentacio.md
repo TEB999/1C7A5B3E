@@ -79,4 +79,9 @@ A projekt a **Next.js App Router** struktúráját követi:
 ```bash
 git clone <repo-url>
 cd project-root
+```
 
+---
+
+# Megjegyzés Tanár Úrnak:
+Magát a szöveg tartalmát AI-al generáltam, MD struktúráját és szerkesztését saját kezem álltal csináltam. Weboldal elkészítésében szintén AI segített.
